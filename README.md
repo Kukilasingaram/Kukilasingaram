@@ -1,4 +1,4 @@
-![javascript-original](https://github.com/Kukilasingaram/Kukilasingaram/assets/143105348/47ef3828-75c3-4a43-aaad-e8fb5ee72475)- 👋 Hi, I’m @Kukilasingaram
+- 👋 Hi, I’m @Kukilasingaram
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning MERN Stack Developer
 - 💬 Ask me about html /javascript / Bootstrap / Reactjs / Nodejs / Mongodb
