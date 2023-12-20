@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kukilasingaram
-- 👀 I’m interested in ...
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning MERN Stack Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kukilasingaram@gmail.com
